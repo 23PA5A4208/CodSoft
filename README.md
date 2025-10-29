@@ -10,9 +10,4 @@ Use **npm** as the package manager. Each subfolder includes its own README with 
 
 ---
 
-## Quick steps
-
-- Download and unzip the repository.
-- For each project folder, open a terminal and follow the individual README instructions.
-- Push the folder to your GitHub repo named `CODSOFT` or `codsoft-uiux-projects`.
 
